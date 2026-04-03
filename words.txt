@@ -1,0 +1,599 @@
+ABLE	Having power to do something	She is able to swim fast.
+ABOVE	Higher than something	The plane flew above the clouds.
+ACHE	A pain or hurt	I have a stomach ache.
+ACROSS	From one side to the other	He swam across the river.
+ACT	To do something	Always act kindly.
+ADD	To join or combine	Please add some sugar to tea.
+AFTER	Later in time	We'll play after dinner.
+AFTERNOON	Time after midday	We play cricket in the afternoon.
+AGE	How old someone is	What is your age?
+AGREE	To have the same opinion	I agree with you.
+AHEAD	In front	The bus is just ahead.
+AIM	To point or plan for something	He aimed at the target.
+AIR	The gas we breathe	The air feels fresh today.
+ALONE	Without others	He sat alone on the bench.
+ALWAYS	At all times	She always helps others.
+ANGEL	A spirit or kind being	She looked like an angel.
+ANGRY	Feeling upset	She was angry with her brother.
+ANIMAL	A living creature	The lion is a wild animal.
+ANSWER	A reply to a question	Please write the correct answer.
+ANT	A small insect	The ant carried a leaf.
+APPLE	A sweet fruit	I ate an apple at lunch.
+APRIL	The fourth month of the year	Flowers bloom in April.
+AREA	A space or region	This area is very clean.
+ARM	The limb between shoulder and hand	He raised his arm.
+AROUND	In a circle or nearby	The kids ran around the park.
+ARRIVE	To reach a place	We will arrive soon.
+ARROW	A pointed symbol or weapon	Follow the arrow on the wall.
+ASK	To question someone	May I ask you something?
+AUGUST	The eighth month of the year	My birthday is in August.
+AUNT	Your parent's sister	My aunt is very kind.
+AWAY	Not here	The cat ran away.
+BABY	A very young child	The baby is sleeping.
+BAG	Something to carry things in	I put books in my bag.
+BALL	A round toy	The ball bounced high.
+BALLON	A rubber toy filled with air	The red balloon flew away.
+BANANA	A long yellow fruit	He ate a ripe banana.
+BEACH	Sand beside the sea	We built castles on the beach.
+BEAUTIFUL	Very pretty	The garden looks beautiful.
+BED	A place to sleep	I made my bed this morning.
+BELIEVE	To think something is true	I believe in you.
+BENCH	A long seat for several people	We sat on the park bench.
+BEST	The top or most good	She is my best friend.
+BETTER	More good than something else	This pen is better than that one.
+BIG	Large in size	The elephant is a big animal.
+BIRD	A flying animal with feathers	The bird sang on the tree.
+BIRTHDAY	The day someone was born	I got gifts on my birthday.
+BLACK	A dark color	She wore a black dress.
+BLANKET	Cloth used for warmth	I covered myself with a blanket.
+BLUE	A color like the sky	The sky is blue today.
+BOOK	Pages with written words	I love reading a new book.
+BOTTLE	A container for liquids	He drank from the bottle.
+BOX	A container for things	He opened the gift box.
+BOY	A young male	The boy smiled at me.
+BRAVE	Not afraid	The brave boy climbed the tree.
+BREAD	Food made from flour	She toasted the bread.
+BRIDGE	A structure to cross a river	The car crossed the bridge.
+BRIGHT	Giving much light	The sun is bright today.
+BRING	To take something with you	Please bring your bag.
+BROKEN	Not working or damaged	My toy car is broken.
+BROTHER	A male sibling	My brother helps me study.
+BRUSH	A tool for cleaning or painting	I brush my teeth daily.
+BRUSH	To clean or paint	I brush my hair every day.
+BUILD	To make or create	We build houses with bricks.
+BURN	To be on fire	The wood started to burn.
+BUSY	Having many things to do	Mum is busy cooking.
+BUTTER	Fat made from milk	She spread butter on toast.
+BUTTON	A small round fastener	He pressed the red button.
+CAKE	A sweet food	We ate chocolate cake.
+CALL	To talk by phone	I will call you later.
+CAMP	A place to stay outdoors	We went camping in the forest.
+CANDY	Sweet food	He loves strawberry candy.
+CAR	A vehicle with four wheels	Dad drives a blue car.
+CARD	A piece of paper for writing	She sent me a birthday card.
+CARE	To look after	I care for my dog.
+CAT	A small pet animal	The cat is sleeping.
+CATCH	To hold something moving	Catch the ball quickly!
+CHAIR	Something to sit on	He sat on the chair.
+CHILD	A young person	The child is playing outside.
+CIRCLE	A round shape	Draw a big circle on paper.
+CITY	A large town	London is a big city.
+CLASS	A group of students	Our class is very quiet today.
+CLEAN	Free from dirt	Keep your desk clean.
+CLEAN	Without dirt	Wash your hands and keep them clean.
+CLEVER	Quick to learn	She is a clever student.
+CLIMB	To go up	We climb the tree together.
+CLOCK	Shows the time	The clock says it's noon.
+CLOSE	Near in distance	The shop is close to home.
+CLOTHES	Things we wear	My clothes are new.
+CLOUD	White shape in the sky	A big cloud covered the sun.
+COLD	Not warm	It's very cold today.
+COLOR	What we see like red or blue	I like the color green.
+COME	To move toward	Please come here now.
+COOK	To prepare food	Mum will cook dinner.
+COOL	Slightly cold	The evening air feels cool.
+CORNER	Where two lines meet	The cat sat in the corner.
+COW	A farm animal that gives milk	The cow eats grass.
+CRY	To shed tears	The baby started to cry.
+CUP	A small bowl for drinking	She drank tea in a cup.
+CUP	A small drinking vessel	The cup is full of juice.
+CUPBOARD	A place to keep dishes	The cups are in the cupboard.
+CUT	To divide with a knife	Please cut the apple in half.
+DAIRY	A place for milk products	The dairy sells cheese.
+DAISY	A small white flower	She picked a daisy from the field.
+DANCE	Move to music	They dance together happily.
+DANCE	To move with music	They dance at the party.
+DARK	Without light	It's dark outside.
+DATE	A day of the month	What's today's date?
+DAY	A period of 24 hours	Today is a sunny day.
+DEAR	Loved or valued	My dear friend lives nearby.
+DEEP	Far down or low	The lake is very deep.
+DEEP	Going far down	The water is deep here.
+DESK	A table for study or work	My books are on the desk.
+DIE	To stop living	Flowers die without water.
+DINNER	The main meal of the day	We had rice for dinner.
+DIRT	Unclean substance	Wash your hands to remove dirt.
+DISCOVER	To find something new	We discovered a new park.
+DISH	A plate for food	She washed the dishes.
+DO	To perform an action	Please do your homework.
+DOCTOR	A person who helps sick people	The doctor gave me medicine.
+DOG	A friendly animal	The dog wagged its tail.
+DOLL	A toy shaped like a person	The girl hugged her doll.
+DOOR	A way to enter or leave a room	Please close the door.
+DOORBELL	A button that rings at the door	Press the doorbell, please.
+DOORWAY	The opening of a door	He stood in the doorway.
+DOWN	Towards a lower place	The ball rolled down the hill.
+DRAW	To make a picture	She likes to draw flowers.
+DRAWN	Made with a pencil	This is a hand-drawn picture.
+DREAM	Thoughts or pictures during sleep	I had a funny dream.
+DRESS	Clothes worn by girls or women	She wore a red dress.
+DRINK	To take liquid into your mouth	I drink water every morning.
+DRIVER	A person who drives	The driver stopped the bus.
+DROP	To let fall	Don't drop the eggs.
+DROP	To let something fall	Don't drop your phone.
+DRY	Not wet	The towel is dry now.
+DUCK	A water bird	The duck swims in the pond.
+DURING	In the time of	It rained during lunch.
+DUST	Tiny bits of dirt	There's dust on the table.
+EACH	Every single one	Each child got a balloon.
+EAR	The part we hear with	My ear hurts a little.
+EARLY	Before the usual time	She wakes up early.
+EARN	To get money by working	He earns some money from chores.
+EARTH	The planet we live on	The Earth moves around the sun.
+EAST	The direction of sunrise	The sun rises in the east.
+EASY	Not difficult	The test was easy for me.
+EASY	Not hard	This puzzle is easy.
+EAT	To chew and swallow food	We eat fruit for health.
+EAT	To take food	Let's eat dinner.
+EDGE	The border or end	The ball rolled to the edge.
+EGG	Food from a hen	I had an egg for breakfast.
+EIGHT	The number after seven	I have eight crayons.
+ELEPHANT	A large animal with a trunk	The elephant sprayed water.
+ELEVEN	One more than ten	He is eleven years old.
+ELSE	Another thing	Do you want anything else?
+EMPTY	Without anything inside	The box is empty.
+END	The final part	We reached the end of the film.
+END	The last part	We reached the end of the road.
+ENERGY	Power to do work	Running needs a lot of energy.
+ENGINE	A machine that moves cars	The engine stopped working.
+ENJOY	To like something	I enjoy watching cartoons.
+ENJOY	To take pleasure	Enjoy your weekend!
+ENOUGH	As much as needed	I have enough pencils.
+ENTER	To go inside	Please enter the room quietly.
+ENVELOPE	A paper cover for letters	She put the card in an envelope.
+ERROR	A mistake	Please correct the error.
+EVENING	The time after sunset	We walk in the evening.
+EVENT	Something that happens	The school held a big event.
+EVERY	Each one of many	I brush my teeth every day.
+EXAMPLE	A sample or model	Here's an example of a sentence.
+EXIT	A way out	Use the exit door only.
+EYE	Organ of sight	She has blue eyes.
+EYE	The part we see with	Close your eyes to sleep.
+EYE	Used for seeing	She closed one eye.
+FACE	Front part of head	She smiled with her face bright.
+FACE	The front of your head	Wash your face with soap.
+FACE	The front part of the head	Wash your face every morning.
+FALL	To drop down	Don't fall from the swing.
+FAMILY	A group of parents and children	My family eats dinner together.
+FARM	A place where crops grow	We went to a big farm.
+FARM	Land where food is grown	The farmer works on the farm.
+FAST	Moving quickly	The car is very fast.
+FAT	Having extra body weight	The cat is a bit fat.
+FATHER	A male parent	My father drives me to school.
+FEATHER	A light part of a bird	The feather fell on the floor.
+FEEL	To sense something	I feel happy today.
+FENCE	A barrier around an area	The dog jumped over the fence.
+FEW	Not many	Only a few birds are flying.
+FIND	To discover or see something	Can you find your shoes?
+FINE	Good or okay	I'm feeling fine now.
+FINISH	To complete something	Let's finish the homework first.
+FIRE	Hot flames that burn	The fire kept us warm.
+FIRE	Something that burns	The wood caught fire.
+FISH	An animal that lives in water	The fish swims fast.
+FIVE	One more than four	There are five apples in the basket.
+FIX	To repair	Dad will fix my toy.
+FLOOR	The lower part of a room	The toys are on the floor.
+FLOWER	A colorful part of a plant	The red flower smells nice.
+FOOD	Something to eat	I love spicy food.
+FOOT	The part at the end of the leg	My foot hurts after running.
+FOREST	A large area with trees	Monkeys live in the forest.
+FOUR	The number after three	He has four pencils.
+FREE	Without cost	The entry is free today.
+FRESH	Newly made or picked	The bread is fresh.
+FRIDAY	The day after Thursday	Friday is my favorite day.
+FRIEND	Someone you like and trust	My best friend lives next door.
+FROG	A small green animal that jumps	The frog hopped into the pond.
+FRUIT	Sweet food from trees or plants	Mango is my favorite fruit.
+FRUIT	Sweet plant food	Bananas are my favorite fruit.
+FULL	Having no space left	The glass is full of milk.
+FUN	Enjoyment	We had fun at the park.
+FUN	Enjoyment or happiness	The party was full of fun.
+GAME	Activity for enjoyment	This board game is fun.
+GAME	An activity for fun	Let's play a game outside.
+GARDEN	A place with plants	We planted roses in the garden.
+GARDEN	Place for flowers	The garden smells lovely.
+GATE	A door in a wall or fence	The gate is open.
+GET	To receive or obtain	Did you get my message?
+GIFT	Something you give or get	I got a gift for my birthday.
+GIRL	A young female child	The girl is reading a book.
+GIVE	To hand something to someone	Please give me your pencil.
+GLASS	Material used in windows	Don't break the glass cup.
+GLUE	A sticky substance	Use glue to fix the paper.
+GO	To move or travel	Let's go to school.
+GOAL	Something you want to do	My goal is to learn English.
+GOAT	A farm animal with horns	The goat ate some grass.
+GOLD	A shiny yellow metal	The ring is made of gold.
+GOOD	Something nice or right	You did a good job.
+GRANDFATHER	Your father's father	My grandfather tells funny stories.
+GRANDMOTHER	Your father's or mother's mother	I love visiting my grandmother.
+GRASS	Green plants that cover the ground	The grass feels soft.
+GRASSHOPPER	An insect that jumps	The grasshopper hopped away.
+GREAT	Very good	You did a great job!
+GREEN	The color of leaves	The trees are green.
+GREY	A color between black and white	The sky looks grey today.
+GROUND	The surface of the earth	The ball fell on the ground.
+GROUP	A number of people together	Our group won the quiz.
+GROW	To become bigger	Flowers grow with sunlight.
+GROW	To get larger	Plants grow in soil.
+GUESS	To answer without knowing	Can you guess the number?
+GUM	Sweet candy you chew	Don't swallow your chewing gum.
+HAIR	Grows on your head	I brushed my hair.
+HALF	One of two equal parts	Cut the cake in half.
+HAND	The end part of your arm	She waved her hand.
+HANDBAG	A small bag for carrying things	She keeps her keys in her handbag.
+HAPPY	Feeling joy	I'm happy to see you.
+HARD	Not soft	The rock is hard.
+HAT	Something you wear on your head	I wore a red hat.
+HEAD	The top part of your body	Wear a cap on your head.
+HEART	A body part that beats	My heart feels strong.
+HEART	The organ that pumps blood	My heart beats fast when I run.
+HEAT	Warmth	The heat from the sun is strong.
+HEAVY	Having much weight	The box is heavy to lift.
+HELP	To give support	Can you help me with this bag?
+HIDE	To go out of sight	The cat likes to hide under the bed.
+HIGH	Tall or above the ground	The kite flew high in the sky.
+HILL	A small raised area of land	We climbed up the hill.
+HOLD	To keep something in your hand	Hold my hand while crossing.
+HOLIDAY	A day to rest or celebrate	We went to the beach on holiday.
+HOME	The place where you live	Welcome home!
+HONEY	Sweet food made by bees	Bees make honey.
+HOPE	To want something to happen	I hope you feel better soon.
+HORSE	A strong animal that runs fast	The horse ran across the field.
+HOT	Having a high temperature	The soup is too hot.
+HOUSE	A building where people live	We live in a small house.
+HOUSE	A place to live	Our house is painted blue.
+HUMAN	A person	Every human needs love.
+HUNDRED	The number 100	There are a hundred students in the school.
+HUNGRY	Wanting food	I'm hungry after the game.
+HUNT	To look for something	The lion hunts for food.
+HURT	To cause pain	I hurt my knee while running.
+ICE	Frozen water	The ice melted in the glass.
+ICE CREAM	Sweet frozen dessert	I love chocolate ice cream.
+ICEBERG	Large floating ice	Ships avoid big icebergs.
+IDEA	A thought	I got an idea for my story.
+IDEA	A thought or plan	That's a great idea!
+IGNORE	To not pay attention	Don't ignore your teacher.
+ILL	Not feeling well	I feel ill today.
+IMAGE	A picture	I drew an image of a tree.
+IMPORTANT	Having great meaning	Sleep is important for health.
+IMPROVE	To get better	Practice will improve your skills.
+INCREASE	To make more	Please increase the sound.
+INK	Liquid used for writing	The pen has blue ink.
+INSECT	A small animal with six legs	The insect crawled on the leaf.
+INSIDE	Not outside	Stay inside the house.
+INSIDE	The inner part	Stay inside when it rains.
+INSTEAD	In place of something	Let's walk instead of driving.
+INTERESTING	Fun to learn or know	That story is very interesting.
+INTO	To the inside of	The frog jumped into the pond.
+INVITE	To ask kindly	I will invite you to dinner.
+INVITE	To ask someone to come	I invite my friends to my party.
+IRON	A strong metal	The gate is made of iron.
+IRON	Metal or heat tool	She irons her clothes daily.
+ISLAND	Land surrounded by water	We visited a small island.
+ITCH	A small tickling feeling	My arm has an itch.
+ITEM	A single thing	Each item is on sale.
+JACKET	Clothing worn for warmth	He wore a blue jacket.
+JAM	Sweet fruit spread	I like jam on my toast.
+JANUARY	The first month of the year	School opens in January.
+JAR	A glass container	The jar is full of cookies.
+JEANS	Pants made of denim	He wore blue jeans.
+JOB	Work that someone does	My dad has a good job.
+JOIN	To become part of something	I will join the football team.
+JOIN	To connect	Join the two ends together.
+JOKE	Something funny	He told a funny joke.
+JOURNEY	Going from one place to another	Our journey took two hours.
+JOY	Great happiness	Her face was full of joy.
+JOYFUL	Full of happiness	She has a joyful smile.
+JUICE	Drink made from fruits	She drank orange juice.
+JUICE	Liquid from fruits	Fresh juice is healthy.
+JULY	The seventh month	July is a hot month.
+JUMP	To move off the ground	The boy can jump high.
+JUMPING	Moving up and down quickly	The children are jumping happily.
+JUNE	The sixth month	We travel in June.
+JUNGLE	A forest with many trees	Tigers live in the jungle.
+JUST	Fair or only	I just finished my homework.
+KEEP	To hold or continue	Keep your room clean.
+KEEP	To hold or save	Keep the pen in the box.
+KEY	Used to open locks	I lost my house key.
+KEYBOARD	Used for typing	I use the keyboard to type words.
+KICK	To hit with your foot	Kick the ball softly.
+KID	A child	That kid is very polite.
+KIDNAP	To take someone wrongly	It's wrong to kidnap anyone.
+KIND	Being good to others	Always be kind to everyone.
+KINDNESS	The act of being kind	Kindness makes people smile.
+KING	A male ruler	The king sat on his throne.
+KINGFISHER	A colorful bird	The kingfisher dives for fish.
+KISS	To touch with lips	She gave her baby a kiss.
+KITCHEN	A place to cook food	Mum is in the kitchen.
+KITE	A toy that flies in the sky	The kite went high in the air.
+KITTEN	A baby cat	The kitten is sleeping.
+KNEE	Joint that bends the leg	Bend your knee slowly.
+KNEE	The middle joint of your leg	I hurt my knee yesterday.
+KNIFE	A tool for cutting	Use a knife carefully.
+KNOCK	To hit a door to be heard	Knock before you enter.
+KNOW	To have information	I know the answer.
+LADDER	A tool for climbing	He climbed the ladder safely.
+LADY	A woman	The lady is teaching the kids.
+LAKE	A big water area	We swam in the lake.
+LAMP	A thing that gives light	She switched on the lamp.
+LAMP	Gives light	The lamp is bright.
+LAND	The surface of the earth	The plane landed on the land.
+LARGE	Big in size	They live in a large house.
+LATE	After the right time	Don't be late for class.
+LAUGH	To make a happy sound	We laugh at funny jokes.
+LAUGHING	Making a happy sound	The children are laughing.
+LAZY	Not wanting to work	Don't be lazy in school.
+LEAF	A green part of a plant	A leaf fell from the tree.
+LEAFY	Full of leaves	It's a leafy garden.
+LEARN	To get knowledge	I learn English every day.
+LEG	A part used for walking	My leg feels tired.
+LEG	Part of the body for walking	My leg hurts from running.
+LEMON	A sour yellow fruit	Add lemon to your tea.
+LETTER	A symbol or message	Write a letter to your friend.
+LIBRARY	A place with many books	I borrowed a book from the library.
+LIGHT	Bright and not heavy	This bag is light.
+LIGHT	Opposite of dark	Turn on the light.
+LINE	A mark that joins points	Draw a straight line.
+LION	A large wild cat	The lion roars loudly.
+LISTEN	To hear carefully	Listen to your teacher.
+LITTLE	Small	That's a little puppy.
+LITTLE	Small in size	The little bird flew away.
+LOCAL	Nearby	The local shop sells bread.
+LONG	Having much length	The road is very long.
+LOOK	To see something	Look at the stars!
+LOVE	A strong feeling of care	I love my parents.
+LUCKY	Having good things happen	I'm lucky to have good friends.
+LUNCH	The meal at midday	We eat lunch at noon.
+MAKE	To create something	Let's make a card for Dad.
+MAN	An adult male	The man is reading a book.
+MANY	A large number	There are many stars in the sky.
+MAP	A picture showing places	We used a map to find the park.
+MARKET	A place where people buy things	Mum bought apples from the market.
+MATCH	A game or contest	We won the football match.
+MEAL	Food eaten at one time	Lunch is my favorite meal.
+MEET	To see someone	I will meet my teacher tomorrow.
+MELT	To become liquid	The ice will melt in the sun.
+METAL	A hard, shiny material	The key is made of metal.
+MIDDLE	The center part	The ball is in the middle of the field.
+MILK	A white drink from cows	I drink milk every morning.
+MINUTE	60 seconds of time	Please wait a minute.
+MIRROR	A glass that shows reflection	She looked in the mirror.
+MIST	Light fog	There is mist in the morning.
+MIX	To combine things	Mix the sugar with milk.
+MONEY	Coins or notes used to buy things	I saved some money in my box.
+MONKEY	A funny animal that climbs trees	The monkey took the banana.
+MONTH	One of twelve parts of a year	December is my favorite month.
+MOON	The round object in the night sky	The moon shines brightly tonight.
+MOONLIGHT	Light from the moon	We walked under the moonlight.
+MORE	A greater amount	Can I have more juice, please?
+MORNING	The early part of the day	Good morning, everyone!
+MOTHER	A woman who takes care of her children	My mother cooks tasty food.
+MOUNTAIN	A very high hill	We climbed the mountain together.
+MOUSE	A small animal	The mouse ran under the table.
+MOVIE	A film or show	We watched a funny movie.
+MUD	Wet dirt	The shoes are dirty with mud.
+MUSEUM	A place to see old things	We saw dinosaurs in the museum.
+MUSIC	Sounds made by instruments or voice	She listens to soft music.
+NAIL	A thin metal pin	Dad fixed the chair with a nail.
+NAME	What a person is called	My name is Emma.
+NAP	A short sleep	The baby took a nap.
+NEAR	Close to something	The shop is near my school.
+NEED	To want or require	I need some help.
+NEST	A bird's home	The bird built a nest.
+NET	A tool made of string	The fisherman used a net.
+NEVER	Not ever	I never forget my homework.
+NEW	Something not old	I bought a new book.
+NICE	Pleasant or kind	You have a nice smile.
+NIGHT	The time after sunset	Stars twinkle at night.
+NINE	One more than eight	She has nine dolls.
+NOISE	A loud sound	The noise woke me up.
+NOON	12 o'clock in the day	We eat lunch at noon.
+NORTH	One of the four directions	Birds fly north in winter.
+NOSE	The part we smell with	The baby has a cute nose.
+NOTE	A short written message	Leave a note for Mum.
+NOW	At this moment	Please come here now.
+NUMBER	A symbol for counting	What's your favorite number?
+NURSE	A person who helps the doctor	The nurse gave me medicine.
+OBJECT	A thing you can touch	The object on the table is round.
+OCEAN	A large body of salt water	The ocean looks so big.
+OFFER	To give something	He offered me his seat.
+OFFICE	A place where people work	My dad works in an office.
+OFTEN	Many times	We often visit our cousins.
+OIL	A liquid used for cooking	Heat the oil in a pan.
+OLD	Having lived a long time	That is an old book.
+ON	Resting above something	The keys are on the table.
+ONE	The first number	I have one sister.
+ONLY	Just one or few	I have only one pen.
+OPEN	Not closed	Please open the window.
+OPENLY	Without hiding	She spoke openly about it.
+OPPOSITE	Facing the other way	The shop is opposite the park.
+ORANGE	A round, sweet fruit	I peeled an orange for lunch.
+ORDER	To ask for something	We ordered pizza last night.
+OUT	Not in a place	Let's go out to play.
+OUTSIDE	Not inside	The kids are playing outside.
+OVER	Above something	The plane flew over the city.
+OWL	A bird that flies at night	The owl hoots in the dark.
+OWN	To have something	I own a red bicycle.
+PAINT	To add color	Let's paint the wall blue.
+PAPER	Material for writing	I folded the paper into a plane.
+PAPER	Thin material for writing	Write your name on paper.
+PARENT	A mother or father	Parents love their children.
+PARK	A green area to relax	We had a picnic at the park.
+PARK	A place for play	We play football in the park.
+PATH	A small road	We walked along the path.
+PEN	A tool for writing	I wrote my name with a pen.
+PENCIL	Used to write or draw	Sharpen your pencil.
+PET	An animal kept at home	The cat is my pet.
+PICTURE	A drawing or photo	I like this family picture.
+PIG	A farm animal	The pig rolled in the mud.
+PINK	A light red color	Her dress is pink.
+PLANE	A flying vehicle	The plane landed safely.
+PLANT	A living thing that grows in soil	Water the plant daily.
+PLATE	A flat dish for food	The plate is full of rice.
+PLAY	To enjoy a game	Let's play hide and seek.
+POINT	To show something	Point to the picture.
+POOL	A place for swimming	We swim in the pool on Sundays.
+POT	A round container	The soup is in the pot.
+QUARTER	One-fourth of something	A quarter of the cake is left.
+QUEEN	A woman ruler	The queen wore a golden crown.
+QUESTION	Something asked	I have a question for you.
+QUEUE	A line of people	We stood in a queue for tickets.
+QUICK	Fast or speedy	He gave a quick answer.
+QUIET	Not noisy	Be quiet in the library.
+QUILT	A warm blanket	Grandma made a quilt.
+QUIT	To stop doing something	Don't quit trying.
+QUITE	Very or fairly	It's quite cold today.
+QUIZ	A small test	The quiz was easy.
+RABBIT	A small animal with long ears	The rabbit eats carrots.
+RAIN	Water falling from clouds	It began to rain heavily.
+RAINCOAT	A coat for rainy days	Wear your raincoat outside.
+REACH	To get to something	I can't reach that shelf.
+READ	To look at and understand words	I like to read storybooks.
+READY	Prepared to start	I am ready for school.
+RED	The color of blood	The apple is red.
+REST	To relax or sleep	Take a rest after lunch.
+RIDE	To sit on and move with something	I ride my bike to school.
+RIGHT	The opposite of left	Turn right at the corner.
+RING	A round piece of jewelry	She wears a gold ring.
+RIVER	A large stream of water	The river flows to the sea.
+ROAD	A way for cars and people	Look both ways before crossing the road.
+ROCK	A piece of hard stone	We sat on a big rock.
+ROOM	A part of a building	My room is clean and bright.
+ROOMMATE	A person who shares a room	My roommate is very kind.
+ROPE	A thick cord	We tied the box with a rope.
+ROSE	A beautiful flower	She gave me a red rose.
+ROUND	Shaped like a circle	The table is round.
+RUN	To move fast on feet	Let's run to the park.
+SALT	A white spice used in food	Add some salt to the soup.
+SAND	Tiny grains found on the beach	We played in the sand.
+SCHOOL	A place where children learn	I go to school every day.
+SHIP	A large boat	The ship sails across the sea.
+SHIRT	A piece of clothing for the upper body	Dad ironed his shirt.
+SHOE	Worn on the feet	My shoes are new.
+SHOP	A place to buy things	Mum went to the shop.
+SILVER	A shiny grey metal	The ring is made of silver.
+SING	To make music with your voice	She likes to sing songs.
+SISTER	A girl in your family	My sister loves painting.
+SIT	To rest on a chair	Please sit down.
+SKY	The space above us	Birds fly in the sky.
+SLEEP	To rest with eyes closed	Babies sleep a lot.
+SLOW	Not fast	The turtle moves slow.
+SMALL	Not big	The puppy is small and cute.
+SMART	Clever or intelligent	He is a smart student.
+SMILE	To show happiness	Her smile is very sweet.
+SNOW	White ice that falls from clouds	We built a snowman in the snow.
+SOUND	Something you can hear	I heard a loud sound.
+SOUP	Hot liquid food	We ate tomato soup.
+SQUARE	A shape with four equal sides	The box is a square shape.
+STAR	A light in the night sky	The stars shine at night.
+STONE	A small piece of rock	He threw a stone into the river.
+STOP	To not move	Please stop talking.
+STORY	A tale or event told in words	Grandma told us a bedtime story.
+STREET	A road in a town or city	We live on a quiet street.
+STRONG	Having power	He is strong and brave.
+SUN	The bright star in the sky	The sun gives us light.
+SUNLIGHT	Light from the sun	The sunlight warmed the room.
+SWEET	Having a sugary taste	The cake tastes sweet.
+TABLE	A flat surface with legs	The books are on the table.
+TALK	To speak with someone	Let's talk after class.
+TALL	Having great height	That building is very tall.
+TEA	A hot drink	I drink tea in the morning.
+TEACHER	A person who teaches	Our teacher is very kind.
+TEAM	A group working together	Our team won the match.
+TEN	The number after nine	There are ten pencils.
+THANK	To show you are grateful	Thank you for your help.
+THIN	Not thick	This book is thin.
+TIGER	A big wild cat	The tiger roared loudly.
+TIME	When things happen	What time is it now?
+TODAY	The present day	Today is a lovely day.
+TOGETHER	With others	Let's work together.
+TOMORROW	The day after today	We will go tomorrow.
+TOOTH	Hard part in the mouth	Brush your teeth twice a day.
+TOP	The highest part	The ball rolled to the top.
+TOWN	A place where people live	We went shopping in town.
+TOY	Something children play with	The baby has many toys.
+TRAIN	A long vehicle on tracks	We travelled by train.
+TRAVEL	To go from one place to another	I love to travel by bus.
+TREE	A tall plant with leaves	A bird sat on the tree.
+TRUCK	A large road vehicle	The truck carried sand.
+TRY	To make an effort	Try again, don't give up.
+UMBRELLA	Used in rain	Take an umbrella; it might rain.
+UNCLE	Brother of your parents	My uncle gave me a gift.
+UNDER	Below something	The cat is under the chair.
+UNIFORM	Special clothes for school or work	I wear a blue school uniform.
+UNIT	A single part	An inch is a unit of length.
+UNTIL	Up to a certain time	Wait until I return.
+UP	Towards the sky or higher	Look up at the stars.
+US	Referring to we or ourselves	This gift is for us.
+USE	To do something with an object	Use a pencil for drawing.
+USEFUL	Helpful	Water is useful for life.
+VALUE	Worth or importance	Good health has great value.
+VAN	A small vehicle	The van stopped near the park.
+VASE	A pot for flowers	She put roses in the vase.
+VEGETABLE	A plant we eat	Carrot is my favorite vegetable.
+VERY	A word to add strength	The soup is very hot.
+VIEW	A sight or scene	The mountain view is beautiful.
+VILLAGE	A small town in the countryside	They live in a quiet village.
+VISIT	To go and see someone	We will visit Grandma on Sunday.
+VOICE	The sound you make when speaking	Her voice is very soft.
+VOTE	To choose a leader	People vote during elections.
+WAIT	To stay in place	Wait here for me.
+WALK	To move on foot	Let's walk to school.
+WALL	A side of a room	The wall is painted blue.
+WARM	A little hot	The tea is still warm.
+WATCH	A small clock worn on the wrist	He looked at his watch.
+WATER	A clear liquid we drink	We need water to live.
+WEEK	Seven days	We have seven days in a week.
+WHEEL	A round part that helps things move	The bike has two wheels.
+WIND	Moving air	The wind blew the leaves.
+WINDOW	An opening in a wall	Open the window for fresh air.
+WINTER	The coldest season	We wear coats in winter.
+WISH	To hope for something	I wish you good luck.
+WORK	To do a job	Dad goes to work early.
+WORLD	The Earth and its people	We live in a big world.
+WRITE	To make words on paper	Write your name neatly.
+X-AXIS	A line in math graphs	The teacher drew the x-axis on the board.
+X-RAY	A picture of bones	The doctor took an X-ray of my hand.
+XENON	A type of gas	Xenon is used in lamps.
+XEROX	A paper copy	Please make a xerox of this file.
+XYLOPHONE	A musical instrument	She played the xylophone in music class.
+YARD	An open space near a house	We play in the yard.
+YARN	Thick thread for knitting	Grandma made a scarf with yarn.
+YAWN	To open mouth when tired	He began to yawn in class.
+YEAR	12 months	A year has 365 days.
+YELLOW	A bright color	The sun looks yellow.
+YES	A word to agree	Yes, I want to go.
+YESTERDAY	The day before today	I met him yesterday.
+YOU	The person being spoken to	You are my friend.
+YOUNG	Not old	The puppy is young.
+YOURSELF	The person that is you	Take care of yourself.
+ZEAL	Great energy or interest	She showed zeal for learning.
+ZEBRA	An animal with black and white stripes	The zebra ran across the field.
+ZERO	The number 0	My score was zero in the first round.
+ZIGZAG	A line with sharp turns	The road goes in a zigzag.
+ZIP	To close with a zipper	Zip your jacket before you go.
+ZIPPER	A device for fastening clothes	My bag's zipper is broken.
+ZONE	An area or region	This is a no-smoking zone.
+ZOO	A place where animals are kept	We saw lions at the zoo.
+ZOOM	To move quickly	The car zoomed past us.
+ZUCCHINI	A green vegetable	We cooked zucchini for dinner.
