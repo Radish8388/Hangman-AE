@@ -80,6 +80,23 @@ namespace Hangman
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            double screenWidth = SystemParameters.WorkArea.Width;
+            double screenHeight = SystemParameters.WorkArea.Height;
+
+            // ensure window size doesn't exceed screen size
+            if (this.Width > screenWidth) this.Width = screenWidth;
+            if (this.Height > screenHeight) this.Height = screenHeight;
+
+            // ensure window is not off the left or top
+            if (this.Left < 0) this.Left = 0;
+            if (this.Top < 0) this.Top = 0;
+
+            // ensure window is not off the right or bottom
+            if (this.Left + this.Width > screenWidth)
+                this.Left = screenWidth - this.Width;
+            if (this.Top + this.Height > screenHeight)
+                this.Top = screenHeight - this.Height;
+
             string[] lines;
             string[] values;
 
